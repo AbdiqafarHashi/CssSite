@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;    
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size:  90px;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E    ;
+    font-weight: bold;
+}
+span{
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    width: 5%;
+}
+p{
+    color: #40514E;
+}
+a{
+    padding: 25px;
+    color: #11999E;
+    text-decoration: none;
+}
+
+
+.topdiv{
+    background-color: #E0EBE8;
+    position: relative;
+    padding-top: 100px;
+}
+.middlediv{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.bottomdiv{
+    background-color: #66BFBF;
+    height: 150px;
+    line-height: 55px;
+    padding-top: 25px;
+
+}
+
+.skill-row{
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    padding: 30px;
+    padding-bottom: 0;
+}
+.imac{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 18px;
+}
+.ball{
+    width: 25%;
+    float: right;
+    padding-top: 50px;
+    margin-left: 30px;
+}
+.kumelgar{
+    clear: left;
+    padding-right: 40px;
+   
+}
+
+.bottom-img{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.top-img{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.left{
+    float: left;
+}
+.profile{
+    width: 35%;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    margin: 0 auto;
+    line-height: 25px;
+}
+.mountain{
+    margin: 0;
+}
+.contact-me{
+    margin: 0px auto 50px auto;
+    line-height: 50px;
+    padding-top: 0;
+}
+.btn{
+    border: 0;
+    line-height: 2.5;
+    padding: 10px 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    background-color: #66BFBF;
+ 
+}
+.footer-link{
+    padding-top: 25px;
+    line-height: 10px;
+}
+.lastp{
+    color: #EAF6F6;
+}
+.text-ball{
+    padding-right: 50px;
+    
+}
