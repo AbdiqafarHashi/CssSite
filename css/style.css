@@ -42,17 +42,19 @@ a{
 
 
 .topdiv{
-    background-color: #E0EBE8;
+    background-color: #5588a3;
     position: relative;
     padding-top: 100px;
+    
 }
 .middlediv{
     text-align: center;
     margin: 0 auto;
+    background-color: #145374;
     
 }
 .bottomdiv{
-    background-color: #66BFBF;
+    background-color: #00334e;
     height: 150px;
     line-height: 55px;
     padding-top: 25px;
