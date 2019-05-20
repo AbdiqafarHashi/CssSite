@@ -109,6 +109,7 @@ a{
 }
 .mountain{
     margin: 0;
+    margin-bottom: -5px;
 }
 .contact-me{
     margin: 0px auto 50px auto;
